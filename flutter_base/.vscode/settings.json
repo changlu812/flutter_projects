@@ -1,0 +1,9 @@
+{
+  "editor.quickSuggestions": {
+    "comments": false,
+    "strings": false,
+    "other": false
+  },
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.wordBasedSuggestions": "off"
+}
